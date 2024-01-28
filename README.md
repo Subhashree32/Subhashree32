@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Subhashree32
+- 👀 I’m interested in exploring the intersection of technology and environmental sustainability, as well as delving into data science and machine learning.
+- 🌱 I’m currently learning React programming, data analysis, and MicrofrontEnd learning techniques to enhance my skill set.
+- 💞️ I’m looking to collaborate on projects related to environmental conservation, data science, or any innovative ideas that align with my interests.
+- 📫 How to reach me: Feel free to connect with me on LinkedIn or drop me an email at 
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love hiking and have a goal to explore at least one new trail every month!
